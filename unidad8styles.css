@@ -1,0 +1,8 @@
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 550px;
+    background-color: #f8f8f8;
+    margin: 11px;
+    padding: 12px;
+  }
